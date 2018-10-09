@@ -1,0 +1,16 @@
+[
+  {
+    "line": 2,
+    "name": "As a user",
+    "description": "\n  Given\n  When\n  And\n  Then",
+    "id": "as-a-user",
+    "keyword": "Feature",
+    "uri": "outline.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@cw"
+      }
+    ]
+  }
+]
